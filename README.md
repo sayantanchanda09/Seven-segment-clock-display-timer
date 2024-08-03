@@ -2,7 +2,7 @@
 This sketch shows you how to use a clock seven segment display to implement a simple timer. The display is used to display the amount of time in minutes and seconds that has elapsed since the sketch started running on the Arduino.<br>
 Components
    - Arduino Uno
-   - 5 x 330 Ohm resistor for the 4 digits and 1 colon
+   - 5 x 330 Ohm resistor
    - Breadboard
    - Jumper wires
   
